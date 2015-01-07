@@ -1,6 +1,12 @@
 {
     "icons": [
         {
+            "name": "Event Store",
+            "filename": "eventstore",
+            "colour": "5AB552",
+            "source": "https://github.com/eventstore/brand"
+        },
+        {
             "name": "Facebook",
             "filename": "facebook",
             "colour": "3B5998",
