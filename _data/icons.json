@@ -7,6 +7,12 @@
             "source": "https://www.facebookbrand.com"
         },
         {
+            "name": "GitHub",
+            "filename": "github",
+            "colour": "333333",
+            "source": "https://github.com/logos"
+        },
+        {
             "name": "Instagram",
             "filename": "instagram",
             "colour": "3F729B",
