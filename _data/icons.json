@@ -5,6 +5,12 @@
             "filename": "facebook",
             "colour": "3B5998",
             "source": "https://www.facebookbrand.com"
+        },
+        {
+            "name": "Twitter",
+            "filename": "twitter",
+            "colour": "55ACEE",
+            "source": "https://about.twitter.com/press/brand-assets"
         }
     ]
 }
