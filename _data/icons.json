@@ -13,6 +13,12 @@
             "source": "http://instagram.com/press"
         },
         {
+            "name": "Treehouse",
+            "filename": "treehouse",
+            "colour": "5FCF80",
+            "source": "http://teamtreehouse.com/about"
+        },
+        {
             "name": "Twitter",
             "filename": "twitter",
             "colour": "55ACEE",
