@@ -25,6 +25,12 @@
             "source": "http://instagram.com/press"
         },
         {
+            "name": "JustGiving",
+            "filename": "justgiving",
+            "colour": "AD29B6",
+            "source": "https://home.justgiving.com"
+        },
+        {
             "name": "LinkedIn",
             "filename": "linkedin",
             "colour": "0077B5",
@@ -41,6 +47,12 @@
             "filename": "twitter",
             "colour": "55ACEE",
             "source": "https://about.twitter.com/press/brand-assets"
+        },
+        {
+            "name": "Vine",
+            "filename": "vine",
+            "colour": "00AC7F",
+            "source": "https://vine.co/logo"
         },
         {
             "name": "YouTube",
