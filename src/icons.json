@@ -25,6 +25,12 @@
             "source": "http://instagram.com/press"
         },
         {
+            "name": "LinkedIn",
+            "filename": "linkedin",
+            "colour": "0077B5",
+            "source": "https://brand.linkedin.com/downloads"
+        },
+        {
             "name": "Treehouse",
             "filename": "treehouse",
             "colour": "5FCF80",
