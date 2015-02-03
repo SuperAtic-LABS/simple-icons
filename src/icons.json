@@ -41,6 +41,12 @@
             "filename": "youtube",
             "colour": "E62D27",
             "source": "https://www.youtube.com/yt/brand/en-GB/downloads.html"
+        },
+        {
+            "name": "Zillow",
+            "filename": "zillow",
+            "colour": "0074E4",
+            "source": "http://zillow.mediaroom.com/images-b-roll"
         }
     ]
 }
