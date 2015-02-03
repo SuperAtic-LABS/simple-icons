@@ -49,6 +49,12 @@
             "source": "https://about.twitter.com/press/brand-assets"
         },
         {
+            "name": "Vimeo",
+            "filename": "vimeo",
+            "colour": "1AB7EA",
+            "source": "http://vimeo.com/about/brand_guidelines"
+        },
+        {
             "name": "Vine",
             "filename": "vine",
             "colour": "00AC7F",
