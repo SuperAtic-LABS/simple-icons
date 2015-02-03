@@ -43,6 +43,12 @@
             "source": "http://teamtreehouse.com/about"
         },
         {
+            "name": "Tumblr",
+            "filename": "tumblr",
+            "colour": "35465C",
+            "source": "https://www.tumblr.com/logo"
+        },
+        {
             "name": "Twitter",
             "filename": "twitter",
             "colour": "55ACEE",
