@@ -73,7 +73,7 @@ $markup = file_get_contents('header.html');
 foreach($icons as $icon) {
     $fileName = "./icons/" . $icon["filename"] . ".svg";
     $fileContent = file_get_contents($fileName);
-    $markup = $markup . "\t<li>" . $fileContent . "</li>\n";
+    $markup = $markup . "\t<li data-colour=\"" . $icon["colour"] . "\">" . $fileContent . "</li>\n";
 }
 
 $markup = $markup . "</ul>";
