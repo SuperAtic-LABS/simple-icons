@@ -1,6 +1,12 @@
 {
     "icons": [
         {
+            "name": "Dropbox",
+            "filename": "dropbox",
+            "colour": "007EE5",
+            "source": "https://www.dropbox.com/branding"
+        },
+        {
             "name": "Event Store",
             "filename": "eventstore",
             "colour": "5AB552",
